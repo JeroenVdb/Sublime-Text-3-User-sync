@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"Handlebars",
+		"Modific",
+		"Package Control",
+		"RAML Syntax Highlighter",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-raml-cop",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint"
+	]
+}
